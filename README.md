@@ -4,15 +4,18 @@
 
 Implement an end2end Airport Management system that can be configured for a given airport (Web interface or Mobile app interface with supporting Backend APIs), that integrates Airline Flight Schedules, Gate Assignments, Baggage Claim assignment for arriving flights
 
-The emphasis here is on team collaboration, so the points awarded will be based on individual contributions to the team and how the team performed overall.  
-
 
 # Team Beta  
 
 ## Members :  
-* Anesha Sekara Pandian
-* Varun Reddy
-* Shravani Naikoti
+* Anesha Sekara Pandian - 016044535  
+* Varun Reddy Seelam - 016015948  
+* Shravani Naikoti - 016673579  
+
+## Contribution :  
+* Varun - Backend, database and frontend  
+* Shravani - Frontend, diagrams and backend  
+* Anesha - Frontend, wireframes and backend  
 
 ## Scrum Weekly Report and XP Values :  
 [Project Journal](https://github.com/gopinathsjsu/team-project-beta/blob/master/Documentation/ProjectJournal.md)  
