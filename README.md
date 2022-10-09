@@ -1,12 +1,12 @@
 # team-project-beta
 
-#Use Case:
+### Use Case:
 
 Implement an end2end Airport Management system that can be configured for a given airport (Web interface or Mobile app interface with supporting Backend APIs), that integrates Airline Flight Schedules, Gate Assignments, Baggage Claim assignment for arriving flights
 
 The emphasis here is on team collaboration, so the points awarded will be based on individual contributions to the team and how the team performed overall.  
 
-#Components:
+### Components:
 
 APIs - input and output of API should be in JSON and should include error handling and validation of inputs
 APIs will be demonstrated using a Web/mobile UI
@@ -27,17 +27,17 @@ Deploy API to AWS in an Auto Scaled EC2 Cluster with Load Balancer (or another c
 Develop a Web or mobile UI that will make use of the APIs
 Create your own database with mock data - use SFO or SJC as an example airport for your data
 
-### Team Beta
+# Team Beta
 
-# Members :
+## Members :
 Anesha Sekara Pandian
 Varun Reddy
 Shravani Naikoti
 
-# Sprint Task Sheet :
+## Sprint Task Sheet :
 https://docs.google.com/spreadsheets/d/1EWeiEBik2nprr3mrWz8Mh7B7vrYxZw-e32XF0iEgXzI/edit?usp=sharing
 
-# Tech stack :
+## Tech stack :
 Backend -
 Frontend -
 Database -
