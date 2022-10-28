@@ -135,7 +135,7 @@ Designed apis
  - Deployed backend code for admin script
 
 Q2. What am I planning to work on next?  
- - Design Flight seats json CRUD operation
+ - UI wireframe
 
 Q3. What tasks are blocked waiting on another team member?
 - N/A
