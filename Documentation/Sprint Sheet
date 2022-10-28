@@ -1,0 +1,168 @@
+# Team: Beta
+
+## Airport Management Project Journal
+
+## Week 1:
+
+[09/26/2022 - 10/02/2022]
+
+#### Varun
+
+Q1. What tasks did I work on / complete?
+ - Setup Github and IDE
+ - Worked on DB design
+
+Q2. What am I planning to work on next?
+ - check SF airport site and insert data in DB
+
+Q3. What tasks are blocked waiting on another team member? 
+ - N/A
+
+#### Shravani
+
+Q1. What tasks did I work on / complete?
+ - Completed Db setup.
+ - Discussed and finalized various features that should be present in the application 
+
+Q2. What am I planning to work on next?
+ - Design diagram - erd
+
+Q3. What tasks are blocked waiting on another team member? 
+ - N/A
+
+#### Anesha
+
+Q1. What tasks did I work on / complete?  
+ - Discussed and finalized various features that should be present in the application
+ - Completed DB setup
+
+Q2. What am I planning to work on next?
+ - Setting up IDE and React for development
+- design diagram - class diagram
+
+Q3. What tasks are blocked waiting on another team member? 
+ - N/A
+
+## Week 2:
+
+[10/03/2022 - 10/09/2022]
+
+#### Varun
+
+Q1. What tasks did I work on / complete?  
+-  Setup Django framework
+ - Got dummy data and updated it in DB
+ 
+Q2. What am I planning to work on next?  
+ - Work on script to create mock data for flight schedules and gate assignments 
+- Create wireframe for user dashboard
+
+Q3. What tasks are blocked waiting on another team member?
+ - N/A
+
+#### Shravani
+
+Q1. What tasks did I work on / complete?  
+ -  Setup Django framework
+- Completed ER diagram 
+
+Q2. What am I planning to work on next?  
+- Complete deployment diagram
+- Wireframe for airline employee dashboard 
+
+Q3. What tasks are blocked waiting on another team member? 
+- N/A
+
+#### Anesha
+
+Q1. What tasks did I work on / complete?  
+Setup Django framework
+ - Explored react, played around with existing examples referred in official documentation
+
+Q2. What am I planning to work on next?
+ - Creating wireframe login page
+ - Create component diagram
+
+Q3. What tasks are blocked waiting on another team member? 
+ - N/A
+
+
+## Week 3:
+
+[10/10/2022 - 10/16/2022]
+
+#### Varun
+
+Q1. What tasks did I work on / complete?
+ - 
+
+Q2. What am I planning to work on next?  
+ - Design Flight seats json CRUD operation
+
+Q3. What tasks are blocked waiting on another team member?
+- N/A
+
+#### Shravani
+
+Q1. What tasks did I work on / complete?  
+- Completed deployment diagram 
+
+Q2. What am I planning to work on next?  
+-  API design
+- Exploring AWS services required for hosting the web app
+
+Q3. What tasks are blocked waiting on another team member?
+
+#### Unmesh
+
+Q1. What tasks did I work on / complete?  
+ - Completed component diagram
+
+Q2. What am I planning to work on next?
+ - API design 
+
+Q3. What tasks are blocked waiting on another team member? 
+ - N/A
+
+## Week 4:
+
+[10/17/2022 - 10/23/2022]
+
+#### Varun
+
+Q1. What tasks did I work on / complete?
+Designed apis
+ - Deployed backend code for admin script
+
+Q2. What am I planning to work on next?  
+ - Design Flight seats json CRUD operation
+
+Q3. What tasks are blocked waiting on another team member?
+- N/A
+
+#### Shravani
+
+Q1. What tasks did I work on / complete?  
+Designed apis
+-  Deployed backend code - apps.py 
+
+Q2. What am I planning to work on next?  
+- UI wireframe design  
+
+Q3. What tasks are blocked waiting on another team member?
+-N/A
+
+#### Anesha
+
+Q1. What tasks did I work on / complete? 
+Designed apis
+Deployed backend code - model.py
+
+Q2. What am I planning to work on next?
+ - Finalizing the UI wireframes and flow of work
+
+Q3. What tasks are blocked waiting on another team member? 
+ - N/A
+
+
+
