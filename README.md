@@ -6,38 +6,47 @@ Implement an end2end Airport Management system that can be configured for a give
 
 The emphasis here is on team collaboration, so the points awarded will be based on individual contributions to the team and how the team performed overall.  
 
-### Components:
 
-APIs - input and output of API should be in JSON and should include error handling and validation of inputs
-APIs will be demonstrated using a Web/mobile UI
-UI is accessed by Passengers (Customers) and Airline employees and Airport employees (3 roles)
-APIs should support following functionality:
-Retrieve Flight arrivals and departures and Gate assignments - based on time durations (next hour, next 2 hours, next 4 hours) - this data will be displayed in multiple monitors throughout the airport - viewable by all users
-Implement a Random Gate assignment for Arriving and Departing flights - designed to prevent conflicting assignments - allow for an hour for each flight to be at the gate (for arrivals and for departures)
-Airport employees :
-Enable or disable one or more gates for maintenance
-Assign Baggage Carousel number to Arriving flights - the system should prevent conflicting assignments
-Baggage Claim information will be displayed in multiple monitors in the Arrival area
-Airline employees:
-Add or update the schedule of flights belonging to their airline relevant to that airport (arrivals and departures)
-APIs and UI functionality will be available based on Roles specified above
-Assume Gates are distributed in multiple terminals (1, 2, 3 to keep it simple)
-Assume Gates are labeled as A1-A32, B1-B32 and C1-C32
-Deploy API to AWS in an Auto Scaled EC2 Cluster with Load Balancer (or another cloud provider)
-Develop a Web or mobile UI that will make use of the APIs
-Create your own database with mock data - use SFO or SJC as an example airport for your data
-
-# Team Beta
+# Team Beta  
 
 ## Members :
-Anesha Sekara Pandian
-Varun Reddy
-Shravani Naikoti
+
+* Anesha Sekara Pandian
+* Varun Reddy
+* Shravani Naikoti
 
 ## Sprint Task Sheet :
-https://docs.google.com/spreadsheets/d/1EWeiEBik2nprr3mrWz8Mh7B7vrYxZw-e32XF0iEgXzI/edit?usp=sharing
 
-## Tech stack :
-Backend -
-Frontend -
-Database -
+https://docs.google.com/spreadsheets/d/1EWeiEBik2nprr3mrWz8Mh7B7vrYxZw-e32XF0iEgXzI/edit?usp=sharing
+  
+## Feature Set:  
+
+##### User  
+* Can singup for an account.
+* Can login in to their account.
+* Can view flight schedules and gate information.
+
+##### Airline Employee  
+* Can add or edit flight schedules.  
+
+##### Airport Employee  
+* Can enable and disable gates.
+* Can assign baggage carousel to flights.  
+
+
+## Design Decisions:  
+
+#### Backend :
+##### Django Python framework   
+Django is a high-level Python web framework. It allows us to use modules for faster development. We chose Django python over other technologies as the requirement was a data-driven content management application.  
+#### Frontend : 
+##### ReactJS and Redux  
+We chose React to make UI development easy. Using React, we imported a lot of predefined UI packages which saved a lot of development time. Redux, along with React provides a state which is maintained globally across the application. This helps one component track changes to the other components.  
+#### Database :
+##### MySQL  
+MySQL is reliable, flexible and easy to use. It was our first choice because it is efficient and fast. MySQL databases are easy to configure and provide multiuser capabilities and can handle many connections at the same time.  
+#### UI library :
+##### Material-UI    
+We used MUI, a React component library which can be easily imported and used, instead of painstakingly code the UI components. It provides fully loaded UI components which made development faster.  
+  
+
