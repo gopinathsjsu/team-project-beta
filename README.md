@@ -9,18 +9,18 @@ The emphasis here is on team collaboration, so the points awarded will be based 
 
 # Team Beta  
 
-## Members :
-
+## Members :  
 * Anesha Sekara Pandian
 * Varun Reddy
 * Shravani Naikoti
 
-## Sprint Task Sheet :
+## Scrum Weekly Report and XP Values :  
+[Project Journal](https://github.com/gopinathsjsu/team-project-beta/blob/master/Documentation/ProjectJournal.md)  
 
-https://docs.google.com/spreadsheets/d/1EWeiEBik2nprr3mrWz8Mh7B7vrYxZw-e32XF0iEgXzI/edit?usp=sharing
+## Sprint Task Sheet :  
+[Sprint Task Sheet and Burn Down Chart] ()  
   
 ## Feature Set:  
-
 ##### User  
 * Can singup for an account.
 * Can login in to their account.
@@ -35,18 +35,16 @@ https://docs.google.com/spreadsheets/d/1EWeiEBik2nprr3mrWz8Mh7B7vrYxZw-e32XF0iEg
 
 
 ## Design Decisions:  
-
+### MERN stack :  
+We chose MERN stack because it provides faster development using library functions from React. It is easier to test and run applications, bother server-side and front end.  
 #### Backend :
-##### Django Python framework   
-Django is a high-level Python web framework. It allows us to use modules for faster development. We chose Django python over other technologies as the requirement was a data-driven content management application.  
+##### Node.js and Expressjs
+Nodejs is a serer-side Javascript framework, provides event-driven and non-blocking i/o. Express is another server side framework which runs on the Nodejs platform. It is easy to configure and customize. 
 #### Frontend : 
-##### ReactJS and Redux  
-We chose React to make UI development easy. Using React, we imported a lot of predefined UI packages which saved a lot of development time. Redux, along with React provides a state which is maintained globally across the application. This helps one component track changes to the other components.  
+##### ReactJS  
+We chose ReactJS, a Javascript front-end library to make UI development easy. Using React, we imported a lot of predefined UI packages which saved a lot of development time. Redux, along with React components provides a state which is maintained globally across the application. This helps one component track changes to the other components.  
 #### Database :
-##### MySQL  
-MySQL is reliable, flexible and easy to use. It was our first choice because it is efficient and fast. MySQL databases are easy to configure and provide multiuser capabilities and can handle many connections at the same time.  
-#### UI library :
-##### Material-UI    
-We used MUI, a React component library which can be easily imported and used, instead of painstakingly code the UI components. It provides fully loaded UI components which made development faster.  
-  
+##### MongoDB  
+MongoDB is a non-relational database which we used as part of the MERN stack. MongoDB has document oriented storage and is robust, flexible and scalable. It provides single-master usage with replication support.  
+
 
