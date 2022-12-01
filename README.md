@@ -18,7 +18,7 @@ The emphasis here is on team collaboration, so the points awarded will be based 
 [Project Journal](https://github.com/gopinathsjsu/team-project-beta/blob/master/Documentation/ProjectJournal.md)  
 
 ## Sprint Task Sheet :  
-[Sprint Task Sheet and Burn Down Chart] ()  
+[Sprint Task Sheet and Burn Down Chart](https://github.com/gopinathsjsu/team-project-beta/blob/master/Documentation/Sprint_Task_Sheet.xlsx)  
   
 ## Feature Set:  
 ##### User  
