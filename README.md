@@ -22,8 +22,16 @@ Implement an end2end Airport Management system that can be configured for a give
 
 ## Sprint Task Sheet :  
 [Sprint Task Sheet and Burn Down Chart](https://github.com/gopinathsjsu/team-project-beta/blob/master/Documentation/Sprint_Task_Sheet.xlsx)  
+
+## Diagrams :
+[Diagrams Folder](https://github.com/gopinathsjsu/team-project-beta/tree/master/Documentation/Diagrams)  
   
 ## Feature Set:  
+##### Admin  
+* Can create an airport employee.
+* Can create an airline employee.
+* Can create new gates and terminals on the DB.  
+
 ##### User  
 * Can singup for an account.
 * Can login in to their account.
